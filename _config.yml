@@ -22,9 +22,9 @@ color:
     - '#900000'
     - '#0b2325'
   brandStrength: 0
-  lightness: 0.25
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     item: 47d5f72c-d42a-43c3-b3d7-58bf7f88b66f

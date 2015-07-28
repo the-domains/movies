@@ -22,8 +22,8 @@ color:
     - '#900000'
     - '#0b2325'
   brandStrength: 0
-  lightness: 0.75
-  saturation: 0.25
+  lightness: 0.4375
+  saturation: 0.875
   rhythmicContrast: 0.75
 purpose:
   - name: engagement

@@ -1,7 +1,7 @@
 name: Movies
 favicon: null
 layout_spectrum: 0.68019
-typography_spectrum: 0.37312
+typography_spectrum: 0.19934
 cta:
   domain: null
   bucket: null
@@ -27,5 +27,5 @@ color:
   rhythmicContrast: 0.5
 purpose:
   - name: engagement
-    item: c05d7809-d3d0-4389-9714-1477345779cf
+    item: d09245a5-79b1-4ab3-8e07-d056baf8b36d
     url: null

@@ -16,15 +16,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e1d9d7'
-    - '#cea15d'
-    - '#8a413a'
-    - '#ad7952'
-    - '#0a0000'
+    - '#4e5d7a'
+    - '#303539'
+    - '#100c0d'
+    - '#828e9e'
+    - '#d5d3d4'
   brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     item: d09245a5-79b1-4ab3-8e07-d056baf8b36d

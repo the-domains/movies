@@ -1,6 +1,6 @@
 name: Movies
 favicon: null
-layout_spectrum: 0.24694
+layout_spectrum: 0.75005
 typography_spectrum: 0.19934
 cta:
   domain: null
@@ -22,9 +22,9 @@ color:
     - '#828e9e'
     - '#d5d3d4'
   brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose:
   - name: engagement
     item: d09245a5-79b1-4ab3-8e07-d056baf8b36d

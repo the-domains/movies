@@ -1,7 +1,7 @@
 name: Movies
 favicon: null
-layout_spectrum: 0.73464
-typography_spectrum: 0.15828
+layout_spectrum: 1
+typography_spectrum: 0.3205
 cta:
   domain: null
   bucket: null
@@ -16,14 +16,14 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#4e5d7a'
-    - '#303539'
-    - '#100c0d'
-    - '#828e9e'
-    - '#d5d3d4'
-  brandStrength: 0.5
-  lightness: 0.375
-  saturation: 0.5625
+    - '#fdfdfd'
+    - '#fca440'
+    - '#9b4e3a'
+    - '#121a87'
+    - '#3796c2'
+  brandStrength: 0.75
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose:
   - name: engagement
